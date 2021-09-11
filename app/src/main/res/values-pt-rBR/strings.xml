@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ParImpar</string>
+    <string name="input_number">Escrveva um inteiro positivo aqui...</string>
+    <string name="check_result">Responder</string>
+    <string name="is_even">é Par</string>
+    <string name="is_odd">é Ímpar</string>
+</resources>

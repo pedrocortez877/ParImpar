@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ParImpar</string>
+    <string name="input_number">Input a positive integer here...</string>
+    <string name="check_result">Check</string>
+    <string name="is_even">is Even.</string>
+    <string name="is_odd">id Odd.</string>
+</resources>
